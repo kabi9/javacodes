@@ -1,5 +1,5 @@
 
-public class Operators {
+public class AnOperators {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
