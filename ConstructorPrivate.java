@@ -1,14 +1,14 @@
 
-public class PrivateConstructor {
+public class ConstructorPrivate {
 	
-	private PrivateConstructor() {
+	private ConstructorPrivate() {
 		System.out.println("private constructor is called");
 	}
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		PrivateConstructor a1 = new PrivateConstructor();
+		ConstructorPrivate a1 = new ConstructorPrivate();
 		Pc a2 = new Pc();
 		
 		/* CONSTRUCTOR IS ALWAYS THERE
