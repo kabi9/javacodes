@@ -1,6 +1,7 @@
 abstract class Plants {
 // a simple  class can have both abstract and normal method
-// abstract method, they will not have body	
+// abstract method, they will not have body
+// make class abstract if there is one abstract method
 	
 	// ABSTRACT METHOD
 	abstract void eat();
