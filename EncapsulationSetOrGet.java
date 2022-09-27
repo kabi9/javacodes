@@ -1,10 +1,10 @@
 class Person1{
 	
 	//	PRIVATE FIELD
-	private int age = 10;		//  PRIVATE : ONLY ACCESS INSIDE CLASS
+	private int age ;		//  PRIVATE : ONLY ACCESS INSIDE CLASS
 	
 	//	GETTER method
-	public int getAge() {
+	public  int getAge() {
 		return age;
 	}
 	
