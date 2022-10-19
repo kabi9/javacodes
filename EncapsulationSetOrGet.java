@@ -1,14 +1,14 @@
 class Person1{
 	
 	//	PRIVATE FIELD
-	private int age ;		//  PRIVATE : ONLY ACCESS INSIDE CLASS
+	private int age;
 	
-	//	GETTER method
+	//	GETTER method			//	GETTING AGE
 	public  int getAge() {
 		return age;
 	}
 	
-	//	SETTER method
+	//	SETTER method			//	SETTING AGE
 	public int setAge(int a) {
 		this.age = a;
 		return age;

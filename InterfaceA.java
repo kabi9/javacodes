@@ -25,10 +25,10 @@ class Square implements InterfaceA {
 //Interface --> 
 //how define one interface 
 //implement the  interface on the class 
-//because same package we create class we main method and create object
+//because of same package we create class with main method and create object
 
 // DEFINATION OF INTERFACE
 //An interface is fully abstract class . 
-//To implement it on class we need to user "implement" keyword
-//we need to method abstract method over the class
+//To implement it on class we need to use "implement" keyword
+//we need to mention abstract method over the class
 //We can then create object of class

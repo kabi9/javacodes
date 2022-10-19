@@ -60,4 +60,4 @@ class C implements InterfaceB, D {
 
 //InterfaceB, D with abstract methods 
 //Implement both interface on class with definition 
-//We create main method on another and create object and called methods
+//We create main method on another class \\\\\ create object and call methods
