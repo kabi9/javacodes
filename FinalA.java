@@ -6,13 +6,13 @@ public class FinalA {
 
 		/*	FINAL KEYWORD
 		 * ------------------
-		 * DEFINE SOMETHING WITH FINAL KEYWORD IN TERMS OF VARIABLE, YOU CANNOT OBJECT THE VALUE.
+		 * DEFINE SOMETHING WITH FINAL KEYWORD IN TERMS OF VARIABLE, YOU CANNOT UPDATES THE VALUE.
 		 * 
 		 */
 		
 		final int age = 12;
 		
-		//	age = 20;
+		//	age = 20;		//	CANNOT UPDATE 
 		System.out.println("AGE "+ age);
 	}
 

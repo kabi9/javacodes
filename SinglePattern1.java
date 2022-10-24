@@ -25,7 +25,7 @@ public class SinglePattern1 {
 
 		Database obj;
 		obj = Database.getInstance();	// ONLY WAY TO CREATE OBJECT IS CALLING THIS METHOD. GIVES SAME OBJECT. 
-										// SO, THERE WILL BE SAME INSTANCE.
+										// SO, THERE WILL BE ONLY ONE INSTANCE.
 		obj.getConnect();
 		
 		//	Database c = new database(); 	NOTE: WHEN CREATED CONSTRUCTOR PRIVATE, CANNOT CALL CONSTRUCTOR OUTSIDE THE CLASS. 

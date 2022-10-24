@@ -7,9 +7,9 @@ class FinalMethodDemo{
 }
 public class FinalB extends FinalMethodDemo {
 	
-	public void display() {
-		System.out.println("I am from FinalB class");
-	}
+//	public void Display() {
+//		System.out.println("I am from FinalB class");
+//	}
 	
 
 	public static void main(String[] args) {

@@ -1,9 +1,7 @@
-//   ******		JUST FOR CONCEPT	*********
-
-class DataBase{
+class DataBaseA{
 	
 	String connect;
-	public DataBase() {
+	public DataBaseA() {
 		this.connect = "I am connected";
 	}
 	
@@ -16,13 +14,13 @@ public class SingletonPattern {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub			
 
-		DataBase connect1 = new DataBase();		//	PURPOSE OF CLASS: CREATE MULTIPLE OBJECTS
+		DataBaseA connect1 = new DataBaseA();		//	PURPOSE OF CLASS: CREATE MULTIPLE OBJECTS
 		connect1.displayConnect();
 		
-		DataBase connect2 = new DataBase();
+		DataBaseA connect2 = new DataBaseA();
 		connect2.displayConnect();
 		
-		DataBase connect3 = new DataBase();
+		DataBaseA connect3 = new DataBaseA();
 		connect3.displayConnect();
 	}
 

@@ -26,7 +26,7 @@ public class SuperExample3 {
 		// TODO Auto-generated method stub
 
 		SonQ i = new SonQ("Shailendra","Adhikari","Kabindra");
-	
+		
 	}
 
 }

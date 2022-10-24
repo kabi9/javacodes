@@ -22,7 +22,7 @@ public class SuperExample {
 		// TODO Auto-generated method stub
 
 		DogA a = new DogA();
-		a.display();
+		
 		a.message();
 	}
 
